@@ -7,7 +7,7 @@ use Regatta\Dates\Interfaces\Days;
 /**
  * Check if this instance is a particular day.
  */
-trait DayHelpers
+trait BankHoliday
 {
     /**
      * Get a DateTime object for the specified number of days difference.
